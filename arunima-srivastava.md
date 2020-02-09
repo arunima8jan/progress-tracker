@@ -8,9 +8,9 @@
 |4|||
 |5|Started lesson 1 kotlin||
 |6|Lesson 1 complete|[Repo](https://github.com/arunima8jan/Dice-Roller)|
-|7|||
-|8|||
-|9|||
+|7|Lesson 2 started||
+|8|About me in progress||
+|9|About me|[Repo](https://github.com/arunima8jan/About-Me)|
 |10|||
 |11|||
 |12|||
